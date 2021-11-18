@@ -40,6 +40,6 @@
 
 <p> What is WannaCry ransomware? <em>by Kaspersky</em> [3]  </p> 
   
-[1] https://newsignature.com/articles/the-fragility-of-technology-and-what-we-can-do-about-it/ 
-[2] https://link.springer.com/article/10.1007/s13347-017-0280-4
-[3] https://www.kaspersky.co.uk/resource-center/threats/ransomware-wannacry
+<p> [1] https://newsignature.com/articles/the-fragility-of-technology-and-what-we-can-do-about-it/ </p> 
+<p> [2] https://link.springer.com/article/10.1007/s13347-017-0280-4 </p> 
+<p> [3] https://www.kaspersky.co.uk/resource-center/threats/ransomware-wannacry </p> 
